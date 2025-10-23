@@ -2,6 +2,10 @@
 
 A modern, responsive website for Cafe Royal - "Classic. British. Caf." - An original family-owned cafe experience built with React, TypeScript, and modern web technologies.
 
+## 🌐 Live Site
+
+Visit the live website at: **[https://thanasisth98.github.io/cafe-royal/](https://thanasisth98.github.io/cafe-royal/)**
+
 ## ✨ Features
 
 ### 🏠 **Homepage**
@@ -75,6 +79,18 @@ npm run build    # Build optimized production bundle
 npm run preview  # Preview production build locally
 npm run lint     # Run ESLint for code quality checks
 ```
+
+## 🚀 Deployment
+
+This project is automatically deployed to GitHub Pages using GitHub Actions. When changes are pushed to the `main` branch:
+
+1. The workflow builds the project using `npm run build`
+2. The generated `dist` folder is deployed to GitHub Pages
+3. The site becomes available at: **[https://thanasisth98.github.io/cafe-royal/](https://thanasisth98.github.io/cafe-royal/)**
+
+### Manual Deployment
+
+To manually trigger a deployment, you can use the "Actions" tab in GitHub and run the "Deploy to GitHub Pages" workflow.
 
 ## 📁 Project Structure
 
