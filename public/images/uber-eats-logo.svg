@@ -1,0 +1,20 @@
+<svg width="100" height="30" viewBox="0 0 100 30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Uber Eats Logo -->
+  <rect width="100" height="30" fill="#000000" rx="4"/>
+  
+  <!-- "UBER" text -->
+  <text x="10" y="12" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#FFFFFF">UBER</text>
+  
+  <!-- "EATS" text -->
+  <text x="10" y="22" font-family="Arial, sans-serif" font-size="6" fill="#06C167">EATS</text>
+  
+  <!-- Fork icon -->
+  <g transform="translate(70, 8)">
+    <rect x="0" y="0" width="1" height="14" fill="#FFFFFF"/>
+    <rect x="3" y="0" width="1" height="10" fill="#FFFFFF"/>
+    <rect x="6" y="0" width="1" height="14" fill="#FFFFFF"/>
+    <rect x="9" y="0" width="1" height="12" fill="#FFFFFF"/>
+    <!-- Fork handle -->
+    <rect x="3" y="12" width="4" height="1" fill="#FFFFFF"/>
+  </g>
+</svg>
